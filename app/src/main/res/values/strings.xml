@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab7</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="zoom_in_context_description">Zoom in</string>
+    <string name="zoom_out_context_description">Zoom out</string>
+    <string name="last_known_loc_msg">Last known location</string>
+    <string name="record_data">Record Accelerometr data</string>
+    <string name="delete_data">Delete Accelerometr data</string>
+    <string name="erase_memory">Erase Memory</string>
+    <string name="accelerometr">No Data</string>
+</resources>
